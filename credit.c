@@ -7,8 +7,8 @@
 bool check_sum(long num);
 int count;
 bool check_type(long num);
-void mask_card_number(char card_number[]);
-int check_expiry(int exp_month, int exp_year);
+void mask_card_number(char card_number[]); // Feature not yet added
+int check_expiry(int exp_month, int exp_year); // Feature not yet added
 
 int main(void)
 {
